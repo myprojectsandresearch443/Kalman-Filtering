@@ -1,5 +1,5 @@
 %% function testing 
-seed = 200421492; 
+seed = 1357; 
 rng(seed,'twister');
 % process state equation 
 % x = Fx(k-1) + Gu(k-1) 

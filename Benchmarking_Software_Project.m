@@ -1,6 +1,5 @@
 %% function testing with bench marking example
 %% 
-% File submission example and running instructions 
 % To run the function make sure rows of F and G matrix are same. 
 % To run the function please define R as a matrix. 
 
